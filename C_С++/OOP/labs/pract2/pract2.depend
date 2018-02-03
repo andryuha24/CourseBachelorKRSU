@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1413292292 source:h:\c++\pract2\main.cpp
+	<stdio.h>
+	"Graphics.h"
+	<math.h>
+	"MCircle.h"
+	"MPixel.h"
+	<time.h>
+	<iostream>
+
+1411396706 source:h:\c++\pract2\mcircle.cpp
+	<iostream>
+	"MCircle.h"
+
+1399312800 h:\c++\pract2\graphics.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	"Graphics.h"
+	"Graphics.h"
+
+1412133374 h:\c++\pract2\mcircle.h
+
+1412131226 h:\c++\pract2\mpixel.h
+
+1423021573 source:g:\flesh\c++\pract2\main.cpp
+	<stdio.h>
+	<Graphics.h>
+	<math.h>
+	"MCircle.h"
+	"MPixel.h"
+	<time.h>
+	<iostream>
+
+1399309200 g:\flesh\c++\pract2\graphics.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	"Graphics.h"
+	"Graphics.h"
+
+1412129774 g:\flesh\c++\pract2\mcircle.h
+
+1412127626 g:\flesh\c++\pract2\mpixel.h
+
+1413292292 source:h:\flesh\c++\pract2\main.cpp
+	<stdio.h>
+	"Graphics.h"
+	<math.h>
+	"MCircle.h"
+	"MPixel.h"
+	<time.h>
+	<iostream>
+
+1399312800 h:\flesh\c++\pract2\graphics.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	"Graphics.h"
+	"Graphics.h"
+
+1412133374 h:\flesh\c++\pract2\mcircle.h
+
+1412131226 h:\flesh\c++\pract2\mpixel.h
+
+1423021573 source:f:\flesh\c++\pract2\main.cpp
+	<stdio.h>
+	<Graphics.h>
+	<math.h>
+	"MCircle.h"
+	"MPixel.h"
+	<time.h>
+	<iostream>
+
+1412133374 f:\flesh\c++\pract2\mcircle.h
+
+1412131226 f:\flesh\c++\pract2\mpixel.h
+

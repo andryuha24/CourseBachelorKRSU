@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1418145547 source:h:\flesh\c++\pract7\intarray.cpp
+	<iostream>
+	"intArray.h"
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<stdio.h>
+
+1418136476 h:\flesh\c++\pract7\intarray.h
+
+1418144816 source:h:\flesh\c++\pract7\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+	"intArray.h"
+
+1417540754 source:g:\flesh\c++\pract7\main.cpp
+	<iostream>
+	<stdio.h>
+	"intArray.h"
+
+1417572350 g:\flesh\c++\pract7\intarray.h
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1416967370 source:g:\flesh\c++\pract6\main.cpp
+	<iostream>
+	"MString.h"
+	<stdio.h>
+
+1416942665 g:\flesh\c++\pract6\mstring.h
+	<iostream>
+
+1416942616 source:g:\flesh\c++\pract6\mstring.cpp
+	<iostream>
+	<string.h>
+	"MString.h"
+
+1417519761 source:h:\flesh\c++\pract6\main.cpp
+	<iostream>
+	"MString.h"
+	<stdio.h>
+
+1416942665 h:\flesh\c++\pract6\mstring.h
+	<iostream>
+
+1416942616 source:h:\flesh\c++\pract6\mstring.cpp
+	<iostream>
+	<string.h>
+	"MString.h"
+
+1417519844 source:d:\wii\ЕПИ 1-12\3 курс\Программирование\С++\лабы\newc++\pract6\main.cpp
+	<iostream>
+	"MString.h"
+	<stdio.h>
+
+1417519860 d:\wii\ЕПИ 1-12\3 курс\Программирование\С++\лабы\newc++\pract6\mstring.h
+	<iostream>
+
+1418176924 source:d:\wii\ЕПИ 1-12\3 курс\Программирование\С++\лабы\newc++\pract6\mstring.cpp
+	<iostream>
+	<string.h>
+	"MString.h"
+

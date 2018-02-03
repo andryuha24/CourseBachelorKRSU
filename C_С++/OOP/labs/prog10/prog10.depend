@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1419321931 source:g:\ludmila\ludacpp\3kurs\prog10\main.cpp
+	<iostream>
+	"intArray.h"
+
+1419323068 g:\ludmila\ludacpp\3kurs\prog10\intarray.h
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+	<math.h>
+
+1419265261 source:d:\лабораторные КРСУ\ludacpp\3kurs\prog10\main.cpp
+	<iostream>
+	"intArray.h"
+
+1419265735 d:\лабораторные КРСУ\ludacpp\3kurs\prog10\intarray.h
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+	<math.h>
+
+1419265234 source:d:\лабораторные КРСУ\ludacpp\3kurs\prog10\intarray.cpp
+	<stdio.h>
+	<Windows.h>
+	<math.h>
+	"intArray.h"
+

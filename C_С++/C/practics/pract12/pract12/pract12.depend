@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399704014 source:h:\лабы\практика\pract12\pract12\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

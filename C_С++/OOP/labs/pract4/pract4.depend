@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1413943546 source:h:\c++\pract4\main.cpp
+	<iostream>
+	<stdio.h>
+	"MDate.h"
+
+1413943352 h:\c++\pract4\mdate.h
+
+1413943638 source:h:\c++\pract4\mdate.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"MDate.h"
+

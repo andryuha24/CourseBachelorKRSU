@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1419059492 source:g:\ludmila\ludacpp\3kurs\prog8\main.cpp
+	<iostream>
+	<stdio.h>
+	<Graphics.h>
+	"shape.h"
+
+1419060043 g:\ludmila\ludacpp\3kurs\prog8\shape.h
+	<iostream>
+
+1418743530 source:f:\ludmila\ludacpp\3kurs\prog8\main.cpp
+	<iostream>
+	<stdio.h>
+	<Graphics.h>
+	"shape.h"
+
+1418745374 f:\ludmila\ludacpp\3kurs\prog8\shape.h
+
+1418798569 source:h:\ludmila\ludacpp\3kurs\prog8\main.cpp
+	<iostream>
+	<stdio.h>
+	<Graphics.h>
+	"shape.h"
+
+1418798804 h:\ludmila\ludacpp\3kurs\prog8\shape.h
+
+1419060136 source:d:\лабораторные КРСУ\ludacpp\3kurs\prog8\main.cpp
+	<iostream>
+	<stdio.h>
+	<Graphics.h>
+	"shape.h"
+
+1419060043 d:\лабораторные КРСУ\ludacpp\3kurs\prog8\shape.h
+	<iostream>
+
+1419340486 source:e:\wii\ЕПИ 1-12\3 курс\Программирование\С++\3kurs\prog8\main.cpp
+	<iostream>
+	<stdio.h>
+	<Graphics.h>
+	"shape.h"
+
+1419056443 e:\wii\ЕПИ 1-12\3 курс\Программирование\С++\3kurs\prog8\shape.h
+	<iostream>
+

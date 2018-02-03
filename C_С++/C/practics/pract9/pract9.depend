@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1397889758 source:h:\cи\pract9\main.cpp
+	<iostream>
+	<stdio.h>
+	"student.h"
+
+1397887642 h:\cи\pract9\student.h
+
+1398400066 source:l:\cИ\pract9\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"student.h"
+
+1397884042 l:\cИ\pract9\student.h
+
+1398445800 source:h:\cИ\pract9\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"student.h"
+
+1397884042 h:\cИ\pract9\student.h
+
+1398453000 source:g:\cИ\pract9\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"student.h"
+
+1397891242 g:\cИ\pract9\student.h
+
+1398445800 source:e:\wii\ЕПИ 1-12\2 курс\программирование\c\лабы\практика\pract9\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"student.h"
+
+1397884042 e:\wii\ЕПИ 1-12\2 курс\программирование\c\лабы\практика\pract9\student.h
+

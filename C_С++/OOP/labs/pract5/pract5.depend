@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1413943324 source:g:\c++\pract5\fract.cpp
+	<iostream>
+	"Fract.h"
+	<cmath>
+
+1413943310 g:\c++\pract5\fract.h
+
+1413943476 source:g:\c++\pract5\main.cpp
+	<iostream>
+	<stdio.h>
+	"Fract.h"
+
+1418150627 source:h:\flesh\c++\pract5\fract.cpp
+	<iostream>
+	"Fract.h"
+	<cmath>
+
+1418150888 h:\flesh\c++\pract5\fract.h
+
+1418150751 source:h:\flesh\c++\pract5\main.cpp
+	<iostream>
+	<stdio.h>
+	"Fract.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1399100383 source:d:\новая папка (9)\pract11\drob\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"drob.h"
+
+1399096350 d:\новая папка (9)\pract11\drob\drob.h
+
+1399096860 source:h:\cИ\pract11\drob\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"drob.h"
+
+1399092752 h:\cИ\pract11\drob\drob.h
+

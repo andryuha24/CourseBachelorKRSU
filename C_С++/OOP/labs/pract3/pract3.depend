@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1413892848 source:h:\c++\pract3\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"MTime.h"
+
+1413340016 h:\c++\pract3\mtime.h
+
+1413892982 source:h:\c++\pract3\mtime.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	"MTime.h"
+
+1399312800 h:\c++\pract3\graphics.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	"Graphics.h"
+	"Graphics.h"
+
+1413722752 source:h:\c++\ях\pract3\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"MTime.h"
+
+1399312800 h:\c++\ях\pract3\graphics.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	"Graphics.h"
+	"Graphics.h"
+
+1413340016 h:\c++\ях\pract3\mtime.h
+
+1413722682 source:h:\c++\ях\pract3\mtime.cpp
+	<iostream>
+	<time.h>
+	"MTime.h"
+	<stdio.h>
+

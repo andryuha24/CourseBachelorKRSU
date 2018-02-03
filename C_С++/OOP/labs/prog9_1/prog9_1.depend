@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419180291 source:d:\лабораторные КРСУ\ludacpp\3kurs\prog9_1\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdexcept>
+
