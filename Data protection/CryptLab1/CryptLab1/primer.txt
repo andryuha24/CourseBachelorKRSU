@@ -1,0 +1,16 @@
+Looking for a cheap way to monitor your kids when they're in a different room 
+or to make sure your dog's not sleeping on the couch? Perch may have the answer for you.
+The company, developed as part of Samsung's New York-based accelerator program for startups, 
+takes gadgets you already own and turns them into simple home-monitoring devices. 
+The free software, released in beta Wednesday, is initially compatible with PCs 
+and standard USB webcams, as well as with smartphones, tablets and digital cameras 
+running Android 4.1 or higher. In the coming months, the software will spread to iPhones, 
+iPads, smart TVs and traditional security cameras.
+"Our goal is to be the easiest way to get started doing home monitoring," 
+Perch CEO Andrew Cohen told CNET. "You're able to set up in a matter of minutes and take a device 
+and keep an eye on your kids while they're playing in the next room."
+Perch is the latest company to emerge from Samsung's New York accelerator. 
+In 2013, the South Korean electronics giant established two centers, one in Manhattan and the other 
+in Silicon Valley, to help entrepreneurs get their products started. In return,
+ Samsung owns a stake in the companies and gets easier access to their technologies. 
+So far, no big hits have emerged from Samsung's accelerator.

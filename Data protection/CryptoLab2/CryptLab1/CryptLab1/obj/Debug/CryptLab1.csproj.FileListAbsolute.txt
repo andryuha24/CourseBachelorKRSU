@@ -1,0 +1,43 @@
+c:\users\андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\bin\Debug\CryptLab1.pdb
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.exe
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\CryptLab1\CryptLab1\obj\Debug\CryptLab1.pdb
+G:\флешка\Защита\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe.config
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.exe
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.pdb
+G:\флешка\Защита\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe
+G:\флешка\Защита\CryptLab1\CryptLab1\bin\Debug\CryptLab1.pdb
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csprojResolveAssemblyReference.cache
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Form1.resources
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Properties.Resources.resources
+G:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csproj.GenerateResource.Cache
+F:\флешка\Защита\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe.config
+F:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.exe
+F:\флешка\Защита\CryptLab1\CryptLab1\obj\Debug\CryptLab1.pdb
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe.config
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.exe
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.pdb
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csprojResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Form1.resources
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Properties.Resources.resources
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csproj.GenerateResource.Cache
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.pdb
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\My Documents\Visual Studio 2015\Projects\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe.config
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.exe
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.pdb
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.exe
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\CryptLab1.pdb
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csprojResolveAssemblyReference.cache
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Form1.resources
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.Properties.Resources.resources
+G:\флешка\Защита\CryptoLab2\CryptLab1\CryptLab1\obj\Debug\CryptLab1.csproj.GenerateResource.Cache
